@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&family=Prata&family=Raleway:wght@200;300;400;500;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+body{
+  font-family: Raleway;
+  font-style: normal;
+  color: #536352;
+}
+
+header a{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+  text-decoration: none;
+  color: #5A5A59;
+}
+
+h1{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 49px;
+  line-height: 66px;
+  color: #BC6C25;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 90px;
+  line-height: 106px;
+}
+
+h3, h4{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 54px;
+}
+
+h5{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 49px;
+  color: #D27A3A;
+
+}
+
+h6{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 41px;
+}
+
+p{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+span p{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+img {
+  width: 100%;
+}
+
+footer{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.045em;
+  color: #5A5A59;
+}
+
+footer a{
+  font-family: Lora;
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 31px;
+  color: #5A5A59
+}
+
+footer a:hover{
+  text-decoration: underline;
+  color: #8c8c8c;
+}
+
+footer h2{
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 71px;
+  letter-spacing: 0.15em;
+}
+
+footer h3{
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 0.045em;
+  color: #E85A50;
+}
+
+footer h4{
+    font-family: Lora;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 15px;
+    letter-spacing: 0.045em;
+}
+
+.intro-header{
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 59px;
+}
+
+.intro-problem{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 68px;
+}
+
+.results-bold{
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.results-light{
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.quote{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.

@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+
+body{
+  font-family: Oswald;
+  font-style: normal;
+  background-color: #FFFFFF;
+  line-height: 15px;
+  letter-spacing: 0.015em;
+  color: #5A5A59;
+}
+
+header a{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+  text-decoration: none;
+  color: #5A5A59;
+}
+
+a{
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: #E85A50;
+}
+
+a:hover{
+  color: #FF7C73;
+}
+
+img {
+  width: 100%;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 36px;
+}
+
+h2{
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 71px;
+
+}
+
+h3{
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 53px;
+  }
+
+h4{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 15px;
+  letter-spacing: 0.045em;
+  }
+
+p{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+}
+
+span {
+  color: #E85A50;
+}
+
+footer a{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 31px;
+  letter-spacing: 0.045em;
+  color: #5A5A59;
+}
+
+footer a:hover{
+  text-decoration: underline;
+  color: #8c8c8c;
+}
+
+footer h3{
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 0.045em;
+  color: #E85A50;
+}
+
+footer h2{
+  letter-spacing: 0.15em;
+}
+
+.intro h1+p{
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 0.055em;
+}
+
+.paragraph-h2 h2+p{
+  font-size: 22px;
+  line-height: 28px;
+}
+
+.small-paragraph{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.015em;
+}
+
+.cta-button{
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.cta-button:hover{
+  color: #E6E6E6;
+}
+/*
+.cta-outlined{
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 10px;
+  letter-spacing: 0.015em;
+  color: #E85A50;
+}
+*/
